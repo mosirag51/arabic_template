@@ -20,7 +20,7 @@
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label>إسم الوالدة</label>
-                                            <input type="text" class="form-control" placeholder="Company" value="محمد سراج الدين">                                        </div>
+                                            <input type="text" class="form-control" placeholder="Company" value="مقبولة فارس موسى">                                        </div>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="form-group">
@@ -67,13 +67,12 @@
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label>تاريخ الإشتراك</label>
-                                            <input type="date" class="form-control" placeholder="آدرس خانه" value="Bld Mihail Kogalniceanu, nr. 8 Bl 1, Sc 1, Ap 09">
-                                        </div>
+                                            <input type="date" class="form-control" placeholder="آدرس خانه" value=" ">   </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label>تاريخ الإنتهاء</label>
-                                            <input type="date" class="form-control" placeholder="آدرس خانه" value="Bld Mihail Kogalniceanu, nr. 8 Bl 1, Sc 1, Ap 09">
+                                            <input type="date" class="form-control" placeholder="آدرس خانه" value="1-1-2020">
                                         </div>
                                     </div>
                                 </div>
@@ -93,8 +92,8 @@
                                     </div>
                                     <div class="col-md-4">
                                         <div class="form-group">
-                                            <label>کد پستی</label>
-                                            <input type="number" class="form-control" placeholder="کد پستی">
+                                            <label>إسم صاحب العمل</label>
+                                            <input type="text" class="form-control" placeholder="بتروناس" value="بتروناس">
                                         </div>
                                     </div>
                                 </div>

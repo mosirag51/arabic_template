@@ -20,12 +20,7 @@
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label>إسم الوالدة</label>
-<<<<<<< HEAD:resources/views/tawid.blade.php
-                                            <input type="text" class="form-control" placeholder="Company" value=" مقبولة فارس موسي">                                        </div>
-=======
-                                            <input type="text" class="form-control" placeholder="Company" value="مقبولة فارس موسى">                                        </div>
->>>>>>> ba7af988668797200cc90dd08fb2f0afb56af47b:resources/views/hr/tawid.blade.php
-                                    </div>
+                                            <input type="text" class="form-control" placeholder="Company" value="مقبولة فارس موسى"></div>                                    </div>
                                     <div class="col-md-4">
                                         <div class="form-group">
                                             <label for="exampleInputEmail1">النوع</label>

@@ -20,7 +20,11 @@
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label>إسم الوالدة</label>
+<<<<<<< HEAD:resources/views/tawid.blade.php
                                             <input type="text" class="form-control" placeholder="Company" value=" مقبولة فارس موسي">                                        </div>
+=======
+                                            <input type="text" class="form-control" placeholder="Company" value="مقبولة فارس موسى">                                        </div>
+>>>>>>> ba7af988668797200cc90dd08fb2f0afb56af47b:resources/views/hr/tawid.blade.php
                                     </div>
                                     <div class="col-md-4">
                                         <div class="form-group">
@@ -67,13 +71,12 @@
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label>تاريخ الإشتراك</label>
-                                            <input type="date" class="form-control" placeholder="آدرس خانه" value="Bld Mihail Kogalniceanu, nr. 8 Bl 1, Sc 1, Ap 09">
-                                        </div>
+                                            <input type="date" class="form-control" placeholder="آدرس خانه" value=" ">   </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label>تاريخ الإنتهاء</label>
-                                            <input type="date" class="form-control" placeholder="آدرس خانه" value="Bld Mihail Kogalniceanu, nr. 8 Bl 1, Sc 1, Ap 09">
+                                            <input type="date" class="form-control" placeholder="آدرس خانه" value="1-1-2020">
                                         </div>
                                     </div>
                                 </div>
@@ -93,8 +96,13 @@
                                     </div>
                                     <div class="col-md-4">
                                         <div class="form-group">
+<<<<<<< HEAD:resources/views/tawid.blade.php
                                             <label>صاحب العمل</label>
                                             <input type="number" class="form-control" placeholder="کد پستی">
+=======
+                                            <label>إسم صاحب العمل</label>
+                                            <input type="text" class="form-control" placeholder="بتروناس" value="بتروناس">
+>>>>>>> ba7af988668797200cc90dd08fb2f0afb56af47b:resources/views/hr/tawid.blade.php
                                         </div>
                                     </div>
                                 </div>

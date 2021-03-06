@@ -73,7 +73,7 @@
                     </a>
 
                     <ul class="collapse collapseable" id="b">
-                     <li> <a href="{{'/supervisers/create'}}">الطلبات الجديدة</a> </li>
+                     <li> <a href="{{'/hr/tawid'}}">الطلبات الجديدة</a> </li>
                      <li> <a href="{{'/supervisers/show'}}">قيد المراجعة</a> </li>
                      <li> <a href="{{'/supervisers/show'}}">المرتجع</a> </li>
                     </ul>
@@ -81,16 +81,18 @@
                 </li>
 
                 <li class="link ">
-                    <a href= "#c" data-toggle="collapse" aria-controls="ture" >
+                    <a href= "#x" data-toggle="collapse" aria-controls="ture" >
                      <span class="hidden-sm hidden-xs">طلبات المعاش</span>
                      <span><i class="pe-7s-user"></i></span>
+
+
                     </a>
 
-                    <ul class="collapse collapseable" id="c">
-                        <li><a href="{{'/supervisers/create'}}">الطلبات الجديدة</a> </li>
-                        <li> <a href="{{'/supervisers/show'}}">قيد المراجعة</a> </li>
-                        <li> <a href="{{'/supervisers/show'}}">المرتجع</a> </li>
-                 </ul>
+                    <ul class="collapse collapseable" id="x">
+                     <li> <a href="{{'/hr/maash'}}">الطلبات الجديدة</a> </li>
+                     <li> <a href="{{'/supervisers/show'}}">قيد المراجعة</a> </li>
+                     <li> <a href="{{'/supervisers/show'}}">المرتجع</a> </li>
+                    </ul>
 
                 </li>
 

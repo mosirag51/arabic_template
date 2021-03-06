@@ -64,7 +64,7 @@
                         <p>الرئيسية</p>
                     </a>
                 </li>
-                <li class="">
+                <li class="active">
                     <a href= "#b" data-toggle="collapse" aria-controls="ture" >
                      <span class="hidden-sm hidden-xs">طلبات التعويض</span>
                      <span><i class="pe-7s-user"></i></span>
@@ -73,15 +73,15 @@
                     </a>
 
                     <ul class="collapse collapseable" id="b">
-                     <li> <a href="{{'/supervisers/create'}}">الطلبات الجديدة</a> </li>
-                     <li> <a href="{{'/supervisers/show'}}">قيد المراجعة</a> </li>
-                     <li> <a href="{{'/supervisers/show'}}">المرتجع</a> </li>
+                     <li> <a href="{{'/hr/create'}}">الطلبات الجديدة</a> </li>
+                     <li> <a href="{{'/hr/show'}}">قيد المراجعة</a> </li>
+                     <li> <a href="{{'/hr/show'}}">المرتجع</a> </li>
                     </ul>
 
                 </li>
 
-                <li class="active">
-                    <a href= "#c" data-toggle="collapse" aria-controls="ture" >
+                <li class="">
+                    <a href= "{{'/hr/maash'}}" data-toggle="collapse" aria-controls="ture" >
                      <span class="hidden-sm hidden-xs">طلبات المعاش</span>
                      <span><i class="pe-7s-user"></i></span>
                     </a>
@@ -94,7 +94,7 @@
 
                 </li>
 
-                <li>
+                <li class="">
                     <a href="typography.html">
                         <i class="pe-7s-news-paper"></i>
                         <p>الشكاوى</p>
@@ -228,7 +228,7 @@
         <footer class="footer">
             <div class="container-fluid">
 
-                <p class="copyright pull-left">
+                <p class="copyright text-center">
                     2021 &copy;كل الحقوق محفوظة
                 </p>
             </div>

@@ -6,7 +6,7 @@
                 <div class="col-md-8">
                     <div class="card">
                         <div class="header">
-                            <h4 class="title">طلب معاش</h4>
+                            <h4 class="title">طلب تعويض</h4>
                         </div>
                         <div class="content">
                             <form>
@@ -20,7 +20,7 @@
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label>إسم الوالدة</label>
-                                            <input type="text" class="form-control" placeholder="Company" value="محمد سراج الدين">                                        </div>
+                                            <input type="text" class="form-control" placeholder="Company" value=" مقبولة فارس موسي">                                        </div>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="form-group">
@@ -93,7 +93,7 @@
                                     </div>
                                     <div class="col-md-4">
                                         <div class="form-group">
-                                            <label>کد پستی</label>
+                                            <label>صاحب العمل</label>
                                             <input type="number" class="form-control" placeholder="کد پستی">
                                         </div>
                                     </div>
@@ -120,7 +120,7 @@
                                   </h4>
                                 </a>
                             </div>
-                            <p class="description text-center"> Software Tester<br>  جوجه خود را او  تا تشنه <br>من در آن لامبورگینی دو صندلی هستم "
+                            <p class="description text-center"> Software Tester<br>  يعمل في هيئة علماء السودان<br>مدير شركة سوفت اوول "
                             </p>
                         </div>
                         <hr>
